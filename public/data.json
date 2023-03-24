@@ -1,0 +1,68 @@
+[
+    {
+      "_id": "641dd42a24b17d35deffa877",
+      "img": "http://placehold.it/32x32",
+      "price": 63,
+      "name": "Wilson Clarke",
+      "gender": "male",
+      "company": "ENQUILITY",
+      "email": "wilsonclarke@enquility.com",
+      "phone": "+1 (942) 535-3662",
+      "address": "180 Monroe Street, Wakarusa, Federated States Of Micronesia, 4203"
+    },
+    {
+      "_id": "641dd42a2ce6791bc104095b",
+      "img": "http://placehold.it/32x32",
+      "price": 899,
+      "name": "Letha Pittman",
+      "gender": "female",
+      "company": "PROTODYNE",
+      "email": "lethapittman@protodyne.com",
+      "phone": "+1 (827) 474-3890",
+      "address": "312 Chestnut Avenue, Northchase, South Carolina, 5985"
+    },
+    {
+      "_id": "641dd42a7dd0890fff375de1",
+      "img": "http://placehold.it/32x32",
+      "price": 872,
+      "name": "York Callahan",
+      "gender": "male",
+      "company": "PORTICO",
+      "email": "yorkcallahan@portico.com",
+      "phone": "+1 (810) 551-3373",
+      "address": "902 Banner Avenue, Grenelefe, South Dakota, 6549"
+    },
+    {
+      "_id": "641dd42a41058a94bfb03e58",
+      "img": "http://placehold.it/32x32",
+      "price": 407,
+      "name": "Delgado Morales",
+      "gender": "male",
+      "company": "GLUKGLUK",
+      "email": "delgadomorales@glukgluk.com",
+      "phone": "+1 (950) 435-3418",
+      "address": "761 Judge Street, Chalfant, Alabama, 9607"
+    },
+    {
+      "_id": "641dd42a41d7f8ed1d8f066c",
+      "img": "http://placehold.it/32x32",
+      "price": 691,
+      "name": "Shepard Young",
+      "gender": "male",
+      "company": "BULLZONE",
+      "email": "shepardyoung@bullzone.com",
+      "phone": "+1 (999) 476-3581",
+      "address": "987 Bragg Street, Edgar, Missouri, 1126"
+    },
+    {
+      "_id": "641dd42a30227aa6dc5c47c2",
+      "img": "http://placehold.it/32x32",
+      "price": 964,
+      "name": "Coffey Woodard",
+      "gender": "male",
+      "company": "OVERPLEX",
+      "email": "coffeywoodard@overplex.com",
+      "phone": "+1 (871) 544-2310",
+      "address": "769 Kent Avenue, Snowville, American Samoa, 576"
+    }
+  ]
